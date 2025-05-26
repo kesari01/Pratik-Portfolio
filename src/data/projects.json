@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Lancer.com",
+    "imageSrc": "projects/project.png",
+    "description": "Lancer.com is a MERN stack-based website where you can showcase your freelancing skills and hire freelancers.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "source": "https://github.com/kesari01/Lancer.com"
+  },
+  {
+    "title": "VideoForge",
+    "imageSrc": "projects/project.png",
+    "description": "VideoForge is a web app for real-time screen recording and sharing.",
+    "skills": ["Next.js", "Node", "WebRTC", "PostgreSQL"],
+    "source": "https://github.com/kesari01"
+  }
+]

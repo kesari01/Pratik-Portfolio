@@ -1,0 +1,24 @@
+{
+  "frontend": [
+    { "title": "HTML", "imageSrc": "skills/html.svg" },
+    { "title": "CSS", "imageSrc": "skills/css.svg" },
+    { "title": "JavaScript", "imageSrc": "skills/javascript.svg" },
+    { "title": "TypeScript", "imageSrc": "skills/typescript.png" },
+    { "title": "React.js", "imageSrc": "skills/react.svg" },
+    { "title": "Next.js", "imageSrc": "skills/nextjs.svg" }
+  ],
+  "backend": [
+    { "title": "Node.js", "imageSrc": "skills/nodejs.svg" },
+    { "title": "Express.js", "imageSrc": "skills/express.svg" }
+
+  ],
+  "database": [
+    { "title": "MongoDB", "imageSrc": "skills/mongodb.svg" },
+    { "title": "MySQL", "imageSrc": "skills/mysql.svg" },
+    { "title": "PostgreSQL", "imageSrc": "skills/postgresql.svg" }
+  ],
+  "cloud": [
+    { "title": "AWS Certified Cloud Practitioner", "imageSrc": "skills/cloudprac.png" }
+
+  ]
+}

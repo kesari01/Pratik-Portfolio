@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Associate Software Developer",
+    "organisation": "Innover Digital - Bengaluru, India",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Engineered a secure, scalable Resource and Timesheet Management System using React, Node.js, Azure Functions, and MySQL, integrating JWT, OAuth 2.0, RBAC, and automated workflows for seamless access.",
+      "Delivered a high-performance, responsive UI powered by Redux for managing timesheets, employee/project data, and calendar-based resource allocation. Enabled bulk operations and performed Jest unit testing for code accuracy—enhancing team scalability and operational efficiency.",
+      "Optimized resource planning for 1,000+ employees across 50+ projects, reducing manual effort by 60% and cutting operational costs by 65% through containerized Docker deployments and real-time tracking."
+    ]
+  },
+  {
+    "role": "Software Development Trainee",
+    "organisation": "Repup - Gurgaon, India",
+    "startDate": "May, 2023",
+    "endDate": "July, 2023",
+    "experiences": [
+      "Led a web scraping project using JavaScript and Puppeteer, extracting over 15,000+ reviews and 1000+ company details from Glassdoor and AmbitionBox, reducing manual data entry by 30 hours monthly",
+      "Designed a user-friendly interface that aggregated ratings and reviews from five top travel-booking platforms, increasing user engagement by 25% and enabling informed decision-making for over 5,000 monthly users.",
+      "Led the development of a performance analytics dashboard for Tanishq using React.js, enabling real-time tracking and visualization of employee’s and outlet performance across multiple locations."    ]
+  }
+]
